@@ -1,32 +1,10 @@
-# Hi there, I'm Phonphrm! 👋
+# Hi there 👋
 
-```c++
-#include <iostream>
-using namespace std;
+I'm **Phonphrm**, a PhD student at **VISTEC** (Vidyasirimedhi Institute of Science and Technology).
 
-int main()
-{
-    string name = "Phonphrm";
-    int age = 21;
-    
-    string interests[] = {
-        "Artificial intelligence🤖",
-        "Internet of things👨‍💻",
-        "Coffee brewing☕",
-        "Music🎵"
-    };
-    
-    string undergrad[] = {
-        "Chiang Mai University",
-        "International College of Digital Innovation",
-        "Data science path"
-    };
-    
-    return 0;
-}
-```
+I'm passionate about **computer vision** and **AI** — and more specifically, I'm fascinated by *how models think* and *how they actually work* under the hood. Most of my work sits at the intersection of building things that see, and understanding why they see what they see.
 
-<div id="header" align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"/>
-</div>
-
+### 📫 Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/phonphrm-thawatdamrongkit-a9b1551b8/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=69t4FRgAAAAJ)
+- ✉️ [phonphrm.t_s23@vistec.ac.th](mailto:phonphrm.t_s23@vistec.ac.th)
